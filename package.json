@@ -1,0 +1,15 @@
+{
+  "name": "wipr",
+  "version": "1.0.0",
+  "description": "",
+  "author": "pxu",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.18.0",
+    "chalk": "2.3.1",
+    "cli-progress": "1.7.0",
+    "filesize": "3.6.0",
+    "yargs": "11.0.0"
+  },
+  "bin": "./index.js"
+}
